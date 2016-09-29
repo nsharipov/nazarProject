@@ -1,4 +1,4 @@
 <?php
-echo "Hello my little friend";
+echo "Hello independence modifying in develop";
 //phpinfo();
 ?>
