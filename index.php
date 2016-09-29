@@ -1,4 +1,4 @@
 <?php
-echo "Hello independence modifying in develop";
+echo "Hello two independent merged branches modifying in develop and feature";
 //phpinfo();
 ?>
